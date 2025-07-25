@@ -1,0 +1,1 @@
+# PY_internship_week6_tasks
